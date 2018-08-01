@@ -1,5 +1,4 @@
-#About
-1.Testing Privat Public API https://api.privatbank.ua
+Testing Privat Public API https://api.privatbank.ua
 
 #Test
 1. Availability API
